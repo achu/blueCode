@@ -15,12 +15,12 @@
             <table>
                 <tr>
                     <td>
-                        <a href="KamalSample.aspx" target="_top">Loading value through jQuery</a>
+                        <a href="KamalSample.aspx" target="_blank">Loading value through jQuery</a>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <a href="LoadTablejQuery.aspx" target="_top">Build table automatically using jQuery ajax</a>
+                        <a href="LoadTablejQuery.aspx" target="_blank">Build table automatically using jQuery ajax</a>
                     </td>
                 </tr>
             </table>
