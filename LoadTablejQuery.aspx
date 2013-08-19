@@ -93,7 +93,7 @@
             });
         </script>
         <div>
-            <label id="lblSample">Some text inside this label</label>
+            <label id="lblSample">This sample I'm currently trying to build a table plugin</label>
             <input type="button" id="btnLoadTable" value="load table" />
         </div>
         <div>
