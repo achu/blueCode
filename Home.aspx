@@ -81,7 +81,7 @@
                 </ul>
             </div>
             <div style="float: right; width: 99.8%;">
-                <iframe id="ifMain" width="99%" height="99%" frameborder="0"></iframe>
+                <iframe id="ifMain" width="99%" height="99%" frameborder="0" scrolling="no"></iframe>
             </div>
         </div>
     </form>
