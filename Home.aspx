@@ -32,7 +32,7 @@
                 }
 
         ul.sdt_menu {
-            /*margin-top: 150px;*/
+            margin-top: 50px;
         }
 
         h1.title {
@@ -55,21 +55,21 @@
                 <ul id="sdt_menu" class="sdt_menu">
                     <li>
                         <a href="#">
-                            <img src="images/2.jpg" alt="" />
+                            <img src="images/super.jpg" alt="" />
                             <span class="sdt_active"></span>
                             <span class="sdt_wrap">
-                                <span class="sdt_link">who's Achu</span>
+                                <span class="sdt_link">who am i</span>
                                 <span class="sdt_descr">know about me</span>
                             </span>
                         </a>
                     </li>
                     <li>
                         <a href="#">
-                            <img src="images/1.jpg" alt="" />
+                            <img src="images/programming-languages.jpg" alt="" />
                             <span class="sdt_active"></span>
                             <span class="sdt_wrap">
-                                <span class="sdt_link">Portfolio</span>
-                                <span class="sdt_descr">My work</span>
+                                <span class="sdt_link">samples</span>
+                                <span class="sdt_descr">my work</span>
                             </span>
                         </a>
                         <div class="sdt_box">

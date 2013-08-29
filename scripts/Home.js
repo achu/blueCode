@@ -34,7 +34,7 @@ function GenerateSlideMenu() {
              .stop(true)
              .animate({
                  'width': '170px',
-                 'height': '170px',
+                 'height': '85px',
                  'left': '0px'
              }, 400, 'easeOutBack')
              .andSelf()
