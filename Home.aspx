@@ -50,8 +50,7 @@
         <script src="scripts/Home.js"></script>
         <div style="width: 99.8%;">
             <div class="content" style="width: 99%;">
-                <h1>Achu samples... begins..
-        my various samples..</h1>
+                <h1>Samples, by Achutha Krishnan Bathey</h1>
                 <ul id="sdt_menu" class="sdt_menu">
                     <li>
                         <a href="#">
